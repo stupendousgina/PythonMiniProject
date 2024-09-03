@@ -28,6 +28,6 @@ My TO-DO List App features user-friendly interface for adding tasks with a defau
 - All menu inputs will be integers.
 - Options 1, 3, 4 and 5 will continue until user decides to break.
 - Option 2 displays tasks titles and updated statuses, then exits automatically and returns to the menu.
-- Option 6 will Exit the app will a friendly message.
+- Option 6 will Exit the app with a friendly message.
 - When the app is exited, the list is not stored and user cannot access the list again.
-- Empty list re-initialized.
+- Empty list is re-initialized.
